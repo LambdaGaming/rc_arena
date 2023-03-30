@@ -1,0 +1,17 @@
+{
+  "Title": "RC Arena",
+  "Type": "map",
+  "Org": "local",
+  "Ident": "rc_arena",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "PackageReferences": [],
+  "Metadata": {
+    "ProjectTemplate": null
+  }
+}
