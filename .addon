@@ -1,7 +1,7 @@
 {
   "Title": "RC Arena",
   "Type": "map",
-  "Org": "local",
+  "Org": "lambdagaming",
   "Ident": "rc_arena",
   "Tags": null,
   "Schema": 1,
@@ -12,6 +12,12 @@
   "CodePath": null,
   "PackageReferences": [],
   "Metadata": {
-    "ProjectTemplate": null
+    "ProjectTemplate": null,
+    "GameSupport": [
+      "lambdagaming.ricochet"
+    ],
+    "Summary": "Arena map from Ricochet. Jump pads, powerups, and other objects will work if you use the Ricochet: Source 2 gamemode.",
+    "Description": "",
+    "Public": true
   }
 }
